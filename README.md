@@ -14,6 +14,8 @@ a time, by the [hub orchestrator](https://year-of-ai.github.io/orchestration/).
 | [Edward Snowden's NSA Revelations]({{ '/news/history-politics/snowden-nsa-revelations/' | relative_url }}) | Former NSA contractor disclosed classified surveillance programs including PRISM and Tempora, sparking global debate on mass surveillance and government transparency. |
 | [Bitcoin's Dramatic Price Surge]({{ '/news/society-economics/bitcoin-price-surge/' | relative_url }}) | Cryptocurrency surged from ~$13 to over $1,000, marking the first major speculative boom and demonstrating early blockchain technology volatility. |
 | [Google Glass Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }}) | Google released its wearable augmented-reality glasses to limited users, pioneering the mainstream AR/wearables trend and sparking privacy concerns. |
+| [Malala Yousafzai's Education Advocacy]({{ '/news/people/malala-yousafzai-education-advocate/' | relative_url }}) | After recovering from a Taliban attack, Malala founded the Malala Fund and became the youngest-ever Nobel Peace Prize nominee, championing girls' education globally. |
+| ['Selfie' Named Oxford Word of the Year]({{ '/news/arts-culture/selfie-oxford-word-of-year/' | relative_url }}) | Oxford Dictionaries selected "selfie" as Word of the Year, reflecting a 17,000% surge in usage and marking a cultural shift toward digital self-documentation and social sharing. |
 
 ---
 

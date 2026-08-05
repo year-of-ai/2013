@@ -20,8 +20,12 @@
       url: /news/history-politics/
     - title: Science & Technology
       url: /news/science-technology/
+    - title: Arts & Culture
+      url: /news/arts-culture/
     - title: Society & Economics
       url: /news/society-economics/
+    - title: People
+      url: /news/people/
 
 - title: Timeline
   icon: bi-clock-history

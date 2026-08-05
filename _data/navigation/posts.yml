@@ -14,7 +14,17 @@
   url: /news/science-technology/
   description: "Devices, discoveries, and computing milestones of 2013."
 
+- title: Arts & Culture
+  icon: bi-palette
+  url: /news/arts-culture/
+  description: "Creative works, cultural moments, and linguistic shifts of 2013."
+
 - title: Society & Economics
   icon: bi-graph-up-arrow
   url: /news/society-economics/
   description: "Markets, money, and social change in 2013."
+
+- title: People
+  icon: bi-people
+  url: /news/people/
+  description: "Individuals whose 2013 actions and roles shaped the year."
