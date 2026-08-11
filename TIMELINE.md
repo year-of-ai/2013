@@ -15,11 +15,13 @@ single ISO date each topic is primarily associated with.
 
 ## March
 
+- **2013-03-05** — [Hugo Chávez's Death and Legacy]({{ '/news/people/hugo-chavez-death-legacy/' | relative_url }}) *(People)* — Venezuelan president Hugo Chávez dies at 58 after a prolonged cancer battle, ending a 14-year presidency and triggering an early election won narrowly by Nicolás Maduro.
 - **2013-03-14** — [CERN Confirms Discovery of Higgs Boson]({{ '/news/science-technology/higgs-boson-confirmation/' | relative_url }}) *(Science & Technology)* — CERN announces that Large Hadron Collider data confirm the new particle is a Higgs boson, validating a 1964 prediction and completing the Standard Model.
 - **2013-03-19** — [Malala Yousafzai's Education Advocacy & Malala Fund]({{ '/news/people/malala-yousafzai-education-advocate/' | relative_url }}) *(People)* — Malala returns to school in Birmingham and co-founds the Malala Fund, becoming the youngest-ever Nobel Peace Prize nominee that year.
 
 ## April
 
+- **2013-04-15** — [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }}) *(History & Politics)* — Twin pressure-cooker bombs detonate near the marathon finish line, killing three spectators and wounding at least 264, followed by a multi-day manhunt that shut down Greater Boston.
 - **2013-04-15** — [Google Glass Explorer Program Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }}) *(Science & Technology)* — Google begins distributing prototype augmented-reality glasses to 8,000 "Explorers," pioneering mainstream wearable AR.
 
 ## June
