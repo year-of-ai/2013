@@ -13,6 +13,10 @@ single ISO date each topic is primarily associated with.
 
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 
+## February
+
+- **2013-02-10** — [Harlem Shake Viral Phenomenon]({{ '/news/arts-culture/harlem-shake-viral-phenomenon/' | relative_url }}) *(Arts & Culture)* — A two-part dance meme explodes across YouTube, peaking at 4,000+ videos uploaded per day and pushing Baauer's track to #1 on a Billboard Hot 100 reformulated to count streaming.
+
 ## March
 
 - **2013-03-05** — [Hugo Chávez's Death and Legacy]({{ '/news/people/hugo-chavez-death-legacy/' | relative_url }}) *(People)* — Venezuelan president Hugo Chávez dies at 58 after a prolonged cancer battle, ending a 14-year presidency and triggering an early election won narrowly by Nicolás Maduro.
@@ -32,8 +36,13 @@ single ISO date each topic is primarily associated with.
 
 - **2013-09-14** — [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }}) *(History & Politics)* — The US, Russia, and Syria reach a framework to place Syria's chemical arsenal under international control, averting military strikes after the Ghouta sarin attack.
 
+## October
+
+- **2013-10-01** — [US Government Shutdown and Debt Ceiling Crisis]({{ '/news/history-politics/government-shutdown/' | relative_url }}) *(History & Politics)* — A budget impasse over the Affordable Care Act shuts the federal government for 16 days, furloughing some 800,000 employees amid a simultaneous debt-ceiling standoff resolved hours before a projected default.
+
 ## November
 
+- **2013-11-08** — [Typhoon Haiyan Devastates Philippines]({{ '/news/society-economics/typhoon-haiyan-disaster/' | relative_url }}) *(Society & Economics)* — One of the most powerful tropical cyclones ever recorded strikes the central Philippines, killing more than 6,300 people and galvanizing the "loss and damage" debate at the COP19 climate talks.
 - **2013-11-19** — ['Selfie' Named Oxford Dictionaries Word of the Year]({{ '/news/arts-culture/selfie-oxford-word-of-year/' | relative_url }}) *(Arts & Culture)* — Oxford Dictionaries crowns "selfie" its Word of the Year after a 17,000% surge in usage, marking the mainstreaming of digital self-documentation.
 - **2013-11-29** — [Bitcoin's Dramatic Price Rise to $1,000]({{ '/news/society-economics/bitcoin-price-surge/' | relative_url }}) *(Society & Economics)* — Bitcoin briefly exceeds $1,200 per coin, its first major speculative boom to reach mainstream financial attention.
 
