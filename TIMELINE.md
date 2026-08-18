@@ -20,13 +20,19 @@ single ISO date each topic is primarily associated with.
 ## March
 
 - **2013-03-05** — [Hugo Chávez's Death and Legacy]({{ '/news/people/hugo-chavez-death-legacy/' | relative_url }}) *(People)* — Venezuelan president Hugo Chávez dies at 58 after a prolonged cancer battle, ending a 14-year presidency and triggering an early election won narrowly by Nicolás Maduro.
+- **2013-03-13** — [Pope Francis Elected as 266th Pope]({{ '/news/people/pope-francis-elected/' | relative_url }}) *(People)* — Cardinal Jorge Mario Bergoglio of Buenos Aires is elected on the fifth ballot, becoming the first pope from the Americas and the first Jesuit, and taking the previously unused name Francis.
 - **2013-03-14** — [CERN Confirms Discovery of Higgs Boson]({{ '/news/science-technology/higgs-boson-confirmation/' | relative_url }}) *(Science & Technology)* — CERN announces that Large Hadron Collider data confirm the new particle is a Higgs boson, validating a 1964 prediction and completing the Standard Model.
 - **2013-03-19** — [Malala Yousafzai's Education Advocacy & Malala Fund]({{ '/news/people/malala-yousafzai-education-advocate/' | relative_url }}) *(People)* — Malala returns to school in Birmingham and co-founds the Malala Fund, becoming the youngest-ever Nobel Peace Prize nominee that year.
 
 ## April
 
+- **2013-04-02** — [Quantum Entanglement Teleportation Breakthrough]({{ '/news/science-technology/quantum-entanglement-teleportation/' | relative_url }}) *(Science & Technology)* — Physicists at the Max Planck Institute of Quantum Optics teleport a quantum state between two single atoms held as memories 21 metres apart, one of several 2013 demonstrations of teleportation between stationary matter qubits.
 - **2013-04-15** — [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }}) *(History & Politics)* — Twin pressure-cooker bombs detonate near the marathon finish line, killing three spectators and wounding at least 264, followed by a multi-day manhunt that shut down Greater Boston.
 - **2013-04-15** — [Google Glass Explorer Program Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }}) *(Science & Technology)* — Google begins distributing prototype augmented-reality glasses to 8,000 "Explorers," pioneering mainstream wearable AR.
+
+## May
+
+- **2013-05-10** — [The Great Gatsby Film Adaptation Release]({{ '/news/arts-culture/the-great-gatsby-film-release/' | relative_url }}) *(Arts & Culture)* — Baz Luhrmann's maximalist adaptation of F. Scott Fitzgerald's novel opens in wide release starring Leonardo DiCaprio, later winning Academy Awards for Production Design and Costume Design.
 
 ## June
 
