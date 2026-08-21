@@ -10,7 +10,7 @@ tags:
   - physics
   - telecommunications
 excerpt: "In 2013 physicists in Germany, Switzerland, and Denmark teleported quantum states between stationary matter qubits—single atoms, superconducting circuits, and atomic ensembles—advancing the building blocks of quantum networks and quantum computing."
-preview: /images/previews/quantum-entanglement-teleportation.svg
+preview: /images/previews/science-technology.svg
 ---
 
 **Key figures**: Christian Nölleke, Stephan Ritter, Gerhard Rempe (Max Planck Institute of Quantum Optics); Lars Steffen, Andreas Wallraff (ETH Zurich); Charles H. Bennett (quantum teleportation theory); Anton Zeilinger (first photonic teleportation)

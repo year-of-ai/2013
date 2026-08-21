@@ -24,12 +24,28 @@ repository: "year-of-ai/2013"
 
 url: "https://year-of-ai.github.io"
 baseurl: "/2013"
-remote_theme: "bamr87/zer0-mistakes@v1.26.0"
+remote_theme: "bamr87/zer0-mistakes"
 
 markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
+teaser: /images/previews/default.svg
+og_image: /images/previews/default.svg
+
+# Masthead brand mark. Unset, the theme's header renders an <img> with an
+# empty src, which relative_url resolves to the baseurl itself — a broken
+# image on every page.
+logo: /assets/images/favicon.svg
+
+# Browser identity. The theme's core/favicon.html always emits the `ico`
+# link and assumes the site carries a favicon at its root; remote_theme
+# ships only _layouts/_includes/_sass/assets, so the theme's own never
+# arrives. Assets minted by the hub's scripts/generate-favicon.rb.
+favicon:
+  ico: /favicon.ico
+  svg: /assets/images/favicon.svg
+
 
 # GitHub Pages enables all of these by default; listing them keeps local
 # builds (github-pages gem) identical to production.
@@ -66,6 +82,21 @@ titles_from_headings:
   strip_title: false
 
 defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: article
+      # The article layout renders the top-of-page hero from page.preview
+      # only for featured/breaking posts unless a post opts in. Every
+      # article here carries a preview, so opt the collection in; the
+      # layout still guards on page.preview.
+      show_hero: true
+      author_profile: false
+      read_time: true
+      share: true
+      comments: false
+      related: true
   - scope:
       path: ""
     values:
