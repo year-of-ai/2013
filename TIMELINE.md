@@ -45,11 +45,14 @@ single ISO date each topic is primarily associated with.
 ## October
 
 - **2013-10-01** — [US Government Shutdown and Debt Ceiling Crisis]({{ '/news/history-politics/government-shutdown/' | relative_url }}) *(History & Politics)* — A budget impasse over the Affordable Care Act shuts the federal government for 16 days, furloughing some 800,000 employees amid a simultaneous debt-ceiling standoff resolved hours before a projected default.
+- **2013-10-02** — [Silk Road Shutdown and Darknet Marketplace Closure]({{ '/news/society-economics/silk-road-shutdown/' | relative_url }}) *(Society & Economics)* — The FBI shuts the Tor-based Silk Road marketplace and arrests founder Ross Ulbricht in San Francisco, ending the first major era of darknet drug commerce and pioneering cryptocurrency forensics.
 
 ## November
 
+- **2013-11-01** — [Thailand's Political Crisis and 2014 Military Coup]({{ '/news/society-economics/thailand-military-coup/' | relative_url }}) *(Society & Economics)* — Mass anti-government protests erupt in Bangkok after an amnesty bill clears parliament, opening a constitutional crisis that culminates in the May 2014 military coup ousting Prime Minister Yingluck Shinawatra.
 - **2013-11-08** — [Typhoon Haiyan Devastates Philippines]({{ '/news/society-economics/typhoon-haiyan-disaster/' | relative_url }}) *(Society & Economics)* — One of the most powerful tropical cyclones ever recorded strikes the central Philippines, killing more than 6,300 people and galvanizing the "loss and damage" debate at the COP19 climate talks.
 - **2013-11-19** — ['Selfie' Named Oxford Dictionaries Word of the Year]({{ '/news/arts-culture/selfie-oxford-word-of-year/' | relative_url }}) *(Arts & Culture)* — Oxford Dictionaries crowns "selfie" its Word of the Year after a 17,000% surge in usage, marking the mainstreaming of digital self-documentation.
+- **2013-11-28** — [Comet ISON's Perihelion Passage]({{ '/news/science-technology/comet-ison/' | relative_url }}) *(Science & Technology)* — The dynamically new sungrazer ISON skims about 1.16 million km above the Sun's surface and largely disintegrates at perihelion, after a year billed as a possible "Comet of the Century."
 - **2013-11-29** — [Bitcoin's Dramatic Price Rise to $1,000]({{ '/news/society-economics/bitcoin-price-surge/' | relative_url }}) *(Society & Economics)* — Bitcoin briefly exceeds $1,200 per coin, its first major speculative boom to reach mainstream financial attention.
 
 ## December
