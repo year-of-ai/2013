@@ -13,6 +13,10 @@ single ISO date each topic is primarily associated with.
 
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 
+## January
+
+- **2013-01-17** — [Lance Armstrong's Doping Confession]({{ '/news/people/lance-armstrong-doping-confession/' | relative_url }}) *(People)* — In a televised interview with Oprah Winfrey, seven-time Tour de France winner Lance Armstrong admits to systematic doping across his career, ending years of adamant denial and deepening a wider reckoning over institutional accountability in sport.
+
 ## February
 
 - **2013-02-10** — [Harlem Shake Viral Phenomenon]({{ '/news/arts-culture/harlem-shake-viral-phenomenon/' | relative_url }}) *(Arts & Culture)* — A two-part dance meme explodes across YouTube, peaking at 4,000+ videos uploaded per day and pushing Baauer's track to #1 on a Billboard Hot 100 reformulated to count streaming.
@@ -38,6 +42,10 @@ single ISO date each topic is primarily associated with.
 
 - **2013-06-05** — [Edward Snowden's NSA Revelations]({{ '/news/history-politics/snowden-nsa-revelations/' | relative_url }}) *(History & Politics)* — Disclosure of classified NSA surveillance programs including PRISM, triggering a global debate over privacy and state power.
 
+## July
+
+- **2013-07-22** — [Prince George's Birth and Royal Succession]({{ '/news/people/prince-george-birth/' | relative_url }}) *(People)* — Catherine, Duchess of Cambridge, gives birth to Prince George at St Mary's Hospital, London, placing him third in line to the British throne as a newly legislated gender-neutral succession law awaited entry into force.
+
 ## September
 
 - **2013-09-14** — [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }}) *(History & Politics)* — The US, Russia, and Syria reach a framework to place Syria's chemical arsenal under international control, averting military strikes after the Ghouta sarin attack.
@@ -58,6 +66,7 @@ single ISO date each topic is primarily associated with.
 ## December
 
 - **2013-12-05** — [Nelson Mandela's Death and Historic Legacy]({{ '/news/people/nelson-mandela-death-legacy/' | relative_url }}) *(People)* — South Africa's first democratically elected president dies at 95, prompting a global memorial attended by scores of heads of state.
+- **2013-12-13** — [Beyoncé's Self-Titled Album Release]({{ '/news/arts-culture/beyonce-self-titled-album/' | relative_url }}) *(Arts & Culture)* — Beyoncé releases her fifth studio album without warning as a "visual album" — a surprise midnight iTunes drop with a music video for every track that upends the conventional album rollout.
 
 <!-- END GENERATED: timeline -->
 
