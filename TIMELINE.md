@@ -44,11 +44,13 @@ single ISO date each topic is primarily associated with.
 
 ## July
 
+- **2013-07-13** — [George Zimmerman's Acquittal in Trayvon Martin Case]({{ '/news/history-politics/george-zimmerman-acquittal/' | relative_url }}) *(History & Politics)* — A Florida jury acquits neighborhood-watch volunteer George Zimmerman of murder and manslaughter in the shooting death of 17-year-old Trayvon Martin, sparking nationwide protests and giving rise to the Black Lives Matter movement.
 - **2013-07-22** — [Prince George's Birth and Royal Succession]({{ '/news/people/prince-george-birth/' | relative_url }}) *(People)* — Catherine, Duchess of Cambridge, gives birth to Prince George at St Mary's Hospital, London, placing him third in line to the British throne as a newly legislated gender-neutral succession law awaited entry into force.
 
 ## September
 
 - **2013-09-14** — [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }}) *(History & Politics)* — The US, Russia, and Syria reach a framework to place Syria's chemical arsenal under international control, averting military strikes after the Ghouta sarin attack.
+- **2013-09-29** — [Breaking Bad Series Finale]({{ '/news/arts-culture/breaking-bad-series-finale/' | relative_url }}) *(Arts & Culture)* — AMC's prestige drama concludes with "Felina," drawing a series-high 10.3 million viewers and resolving Walter White's arc from chemistry teacher to drug kingpin in a finale widely praised as a benchmark for satisfying serialized endings.
 
 ## October
 
@@ -60,6 +62,7 @@ single ISO date each topic is primarily associated with.
 - **2013-11-01** — [Thailand's Political Crisis and 2014 Military Coup]({{ '/news/society-economics/thailand-military-coup/' | relative_url }}) *(Society & Economics)* — Mass anti-government protests erupt in Bangkok after an amnesty bill clears parliament, opening a constitutional crisis that culminates in the May 2014 military coup ousting Prime Minister Yingluck Shinawatra.
 - **2013-11-08** — [Typhoon Haiyan Devastates Philippines]({{ '/news/society-economics/typhoon-haiyan-disaster/' | relative_url }}) *(Society & Economics)* — One of the most powerful tropical cyclones ever recorded strikes the central Philippines, killing more than 6,300 people and galvanizing the "loss and damage" debate at the COP19 climate talks.
 - **2013-11-19** — ['Selfie' Named Oxford Dictionaries Word of the Year]({{ '/news/arts-culture/selfie-oxford-word-of-year/' | relative_url }}) *(Arts & Culture)* — Oxford Dictionaries crowns "selfie" its Word of the Year after a 17,000% surge in usage, marking the mainstreaming of digital self-documentation.
+- **2013-11-27** — [Frozen Film Release]({{ '/news/arts-culture/frozen-film-release/' | relative_url }}) *(Arts & Culture)* — Walt Disney Animation Studios' 53rd feature opens nationwide, becoming the highest-grossing animated film ever made to that point (~$1.28 billion) and a global phenomenon on the strength of "Let It Go" and its story of sisterhood.
 - **2013-11-28** — [Comet ISON's Perihelion Passage]({{ '/news/science-technology/comet-ison/' | relative_url }}) *(Science & Technology)* — The dynamically new sungrazer ISON skims about 1.16 million km above the Sun's surface and largely disintegrates at perihelion, after a year billed as a possible "Comet of the Century."
 - **2013-11-29** — [Bitcoin's Dramatic Price Rise to $1,000]({{ '/news/society-economics/bitcoin-price-surge/' | relative_url }}) *(Society & Economics)* — Bitcoin briefly exceeds $1,200 per coin, its first major speculative boom to reach mainstream financial attention.
 
