@@ -31,8 +31,10 @@ single ISO date each topic is primarily associated with.
 ## April
 
 - **2013-04-02** — [Quantum Entanglement Teleportation Breakthrough]({{ '/news/science-technology/quantum-entanglement-teleportation/' | relative_url }}) *(Science & Technology)* — Physicists at the Max Planck Institute of Quantum Optics teleport a quantum state between two single atoms held as memories 21 metres apart, one of several 2013 demonstrations of teleportation between stationary matter qubits.
+- **2013-04-08** — [Margaret Thatcher's Death and Historic Legacy]({{ '/news/people/margaret-thatcher-death-legacy/' | relative_url }}) *(People)* — Britain's first female prime minister and the architect of a neoliberal economic transformation dies at 87; her ceremonial funeral at St Paul's Cathedral, attended by Queen Elizabeth II, becomes a focus for her deeply contested legacy.
 - **2013-04-15** — [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }}) *(History & Politics)* — Twin pressure-cooker bombs detonate near the marathon finish line, killing three spectators and wounding at least 264, followed by a multi-day manhunt that shut down Greater Boston.
 - **2013-04-15** — [Google Glass Explorer Program Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }}) *(Science & Technology)* — Google begins distributing prototype augmented-reality glasses to 8,000 "Explorers," pioneering mainstream wearable AR.
+- **2013-04-24** — [Rana Plaza Building Collapse]({{ '/news/society-economics/rana-plaza-building-collapse/' | relative_url }}) *(Society & Economics)* — A nine-story building housing five garment factories collapses in Savar, Bangladesh, killing 1,134 workers in the deadliest garment-factory disaster in history and prompting the binding Accord on Fire and Building Safety in Bangladesh.
 
 ## May
 
@@ -50,6 +52,7 @@ single ISO date each topic is primarily associated with.
 ## September
 
 - **2013-09-14** — [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }}) *(History & Politics)* — The US, Russia, and Syria reach a framework to place Syria's chemical arsenal under international control, averting military strikes after the Ghouta sarin attack.
+- **2013-09-20** — [iPhone 5S and 5C Launch]({{ '/news/science-technology/iphone-5s-5c-launch/' | relative_url }}) *(Science & Technology)* — Apple releases the iPhone 5S with the first 64-bit smartphone processor (the A7) and Touch ID fingerprint authentication, alongside the lower-cost, polycarbonate iPhone 5C, bifurcating its flagship line.
 - **2013-09-29** — [Breaking Bad Series Finale]({{ '/news/arts-culture/breaking-bad-series-finale/' | relative_url }}) *(Arts & Culture)* — AMC's prestige drama concludes with "Felina," drawing a series-high 10.3 million viewers and resolving Walter White's arc from chemistry teacher to drug kingpin in a finale widely praised as a benchmark for satisfying serialized endings.
 
 ## October
