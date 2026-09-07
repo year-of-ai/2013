@@ -17,6 +17,7 @@ A master index of every article in this knowledge base for "the year 2013".
 ### History & Politics
 - [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }}) — 2013-04-15
 - [Edward Snowden's NSA Revelations]({{ '/news/history-politics/snowden-nsa-revelations/' | relative_url }}) — 2013-06-05
+- [Shelby County v. Holder (Voting Rights Act Decision)]({{ '/news/history-politics/shelby-county-v-holder/' | relative_url }}) — 2013-06-25
 - [George Zimmerman's Acquittal in Trayvon Martin Case]({{ '/news/history-politics/george-zimmerman-acquittal/' | relative_url }}) — 2013-07-13
 - [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }}) — 2013-09-14
 - [Iran Nuclear Talks and Geneva Interim Agreement]({{ '/news/history-politics/iran-nuclear-talks-geneva-agreement/' | relative_url }}) — 2013-11-24
@@ -27,6 +28,7 @@ A master index of every article in this knowledge base for "the year 2013".
 - [Quantum Entanglement Teleportation Breakthrough]({{ '/news/science-technology/quantum-entanglement-teleportation/' | relative_url }}) — 2013-04-02
 - [Google Glass Explorer Program Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }}) — 2013-04-15
 - [iPhone 5S and 5C Launch]({{ '/news/science-technology/iphone-5s-5c-launch/' | relative_url }}) — 2013-09-20
+- [PlayStation 4 and Xbox One Launch]({{ '/news/science-technology/ps4-xbox-one-launch/' | relative_url }}) — 2013-11-15
 - [Comet ISON's Perihelion Passage]({{ '/news/science-technology/comet-ison/' | relative_url }}) — 2013-11-28
 
 ### Arts & Culture
@@ -40,6 +42,7 @@ A master index of every article in this knowledge base for "the year 2013".
 
 ### Society & Economics
 - [Rana Plaza Building Collapse]({{ '/news/society-economics/rana-plaza-building-collapse/' | relative_url }}) — 2013-04-24
+- [Asiana Airlines Flight 214 Crash]({{ '/news/society-economics/asiana-airlines-flight-214/' | relative_url }}) — 2013-07-06
 - [Silk Road Shutdown and Darknet Marketplace Closure]({{ '/news/society-economics/silk-road-shutdown/' | relative_url }}) — 2013-10-02
 - [Thailand's Political Crisis and 2014 Military Coup]({{ '/news/society-economics/thailand-military-coup/' | relative_url }}) — 2013-11-01
 - [Typhoon Haiyan Devastates Philippines]({{ '/news/society-economics/typhoon-haiyan-disaster/' | relative_url }}) — 2013-11-08
@@ -57,6 +60,7 @@ A master index of every article in this knowledge base for "the year 2013".
 
 ## Alphabetical
 
+- [Asiana Airlines Flight 214 Crash]({{ '/news/society-economics/asiana-airlines-flight-214/' | relative_url }})
 - [Beyoncé's Self-Titled Album Release]({{ '/news/arts-culture/beyonce-self-titled-album/' | relative_url }})
 - [Bitcoin's Dramatic Price Rise to $1,000]({{ '/news/society-economics/bitcoin-price-surge/' | relative_url }})
 - [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }})
@@ -77,11 +81,13 @@ A master index of every article in this knowledge base for "the year 2013".
 - [Malala Yousafzai's Education Advocacy & Malala Fund]({{ '/news/people/malala-yousafzai-education-advocate/' | relative_url }})
 - [Margaret Thatcher's Death and Historic Legacy]({{ '/news/people/margaret-thatcher-death-legacy/' | relative_url }})
 - [Nelson Mandela's Death and Historic Legacy]({{ '/news/people/nelson-mandela-death-legacy/' | relative_url }})
+- [PlayStation 4 and Xbox One Launch]({{ '/news/science-technology/ps4-xbox-one-launch/' | relative_url }})
 - [Pope Francis Elected as 266th Pope]({{ '/news/people/pope-francis-elected/' | relative_url }})
 - [Prince George's Birth and Royal Succession]({{ '/news/people/prince-george-birth/' | relative_url }})
 - [Quantum Entanglement Teleportation Breakthrough]({{ '/news/science-technology/quantum-entanglement-teleportation/' | relative_url }})
 - [Rana Plaza Building Collapse]({{ '/news/society-economics/rana-plaza-building-collapse/' | relative_url }})
 - ['Selfie' Named Oxford Dictionaries Word of the Year]({{ '/news/arts-culture/selfie-oxford-word-of-year/' | relative_url }})
+- [Shelby County v. Holder (Voting Rights Act Decision)]({{ '/news/history-politics/shelby-county-v-holder/' | relative_url }})
 - [Silk Road Shutdown and Darknet Marketplace Closure]({{ '/news/society-economics/silk-road-shutdown/' | relative_url }})
 - [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }})
 - [Thailand's Political Crisis and 2014 Military Coup]({{ '/news/society-economics/thailand-military-coup/' | relative_url }})
