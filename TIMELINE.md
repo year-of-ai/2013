@@ -34,11 +34,13 @@ single ISO date each topic is primarily associated with.
 - **2013-04-08** — [Margaret Thatcher's Death and Historic Legacy]({{ '/news/people/margaret-thatcher-death-legacy/' | relative_url }}) *(People)* — Britain's first female prime minister and the architect of a neoliberal economic transformation dies at 87; her ceremonial funeral at St Paul's Cathedral, attended by Queen Elizabeth II, becomes a focus for her deeply contested legacy.
 - **2013-04-15** — [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }}) *(History & Politics)* — Twin pressure-cooker bombs detonate near the marathon finish line, killing three spectators and wounding at least 264, followed by a multi-day manhunt that shut down Greater Boston.
 - **2013-04-15** — [Google Glass Explorer Program Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }}) *(Science & Technology)* — Google begins distributing prototype augmented-reality glasses to 8,000 "Explorers," pioneering mainstream wearable AR.
+- **2013-04-17** — [West Texas Fertilizer Plant Explosion]({{ '/news/society-economics/west-texas-fertilizer-explosion/' | relative_url }}) *(Society & Economics)* — An ammonium-nitrate fire and explosion at the West Fertilizer Company in West, Texas, kills 15 people—12 of them emergency responders—injures over 260, and exposes gaps in US hazardous-materials oversight.
 - **2013-04-24** — [Rana Plaza Building Collapse]({{ '/news/society-economics/rana-plaza-building-collapse/' | relative_url }}) *(Society & Economics)* — A nine-story building housing five garment factories collapses in Savar, Bangladesh, killing 1,134 workers in the deadliest garment-factory disaster in history and prompting the binding Accord on Fire and Building Safety in Bangladesh.
 
 ## May
 
 - **2013-05-10** — [The Great Gatsby Film Adaptation Release]({{ '/news/arts-culture/the-great-gatsby-film-release/' | relative_url }}) *(Arts & Culture)* — Baz Luhrmann's maximalist adaptation of F. Scott Fitzgerald's novel opens in wide release starring Leonardo DiCaprio, later winning Academy Awards for Production Design and Costume Design.
+- **2013-05-28** — [Gezi Park Protests and Turkish Political Crisis]({{ '/news/history-politics/gezi-park-protests/' | relative_url }}) *(History & Politics)* — Police clear environmentalists from Istanbul's Gezi Park, igniting Turkey's largest protest movement—an estimated 3.5–7.5 million participants across 90+ cities—and a broad confrontation over authoritarianism and civil liberties.
 
 ## June
 
@@ -54,6 +56,7 @@ single ISO date each topic is primarily associated with.
 ## August
 
 - **2013-08-01** — [Edward Snowden's Asylum in Russia]({{ '/news/people/edward-snowden-asylum-russia/' | relative_url }}) *(People)* — Russia grants former NSA contractor Edward Snowden a year of temporary asylum, ending his weeks-long confinement in the transit zone of Moscow's Sheremetyevo Airport and deepening a US–Russia diplomatic rift.
+- **2013-08-21** — [Chelsea Manning Court-Martial Verdict and Sentencing]({{ '/news/history-politics/chelsea-manning-court-martial/' | relative_url }}) *(History & Politics)* — A US military court sentences Army private Chelsea Manning to 35 years for leaking over 700,000 classified documents to WikiLeaks—the heaviest US whistleblower sentence to that date—after acquitting her of aiding the enemy.
 
 ## September
 

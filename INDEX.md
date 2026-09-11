@@ -16,12 +16,14 @@ A master index of every article in this knowledge base for "the year 2013".
 
 ### History & Politics
 - [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }}) — 2013-04-15
+- [Gezi Park Protests and Turkish Political Crisis]({{ '/news/history-politics/gezi-park-protests/' | relative_url }}) — 2013-05-28
 - [Edward Snowden's NSA Revelations]({{ '/news/history-politics/snowden-nsa-revelations/' | relative_url }}) — 2013-06-05
 - [Shelby County v. Holder (Voting Rights Act Decision)]({{ '/news/history-politics/shelby-county-v-holder/' | relative_url }}) — 2013-06-25
 - [George Zimmerman's Acquittal in Trayvon Martin Case]({{ '/news/history-politics/george-zimmerman-acquittal/' | relative_url }}) — 2013-07-13
+- [Chelsea Manning Court-Martial Verdict and Sentencing]({{ '/news/history-politics/chelsea-manning-court-martial/' | relative_url }}) — 2013-08-21
 - [Syria's Chemical Weapons Disarmament Agreement]({{ '/news/history-politics/syria-chemical-weapons-convention/' | relative_url }}) — 2013-09-14
-- [Iran Nuclear Talks and Geneva Interim Agreement]({{ '/news/history-politics/iran-nuclear-talks-geneva-agreement/' | relative_url }}) — 2013-11-24
 - [US Government Shutdown and Debt Ceiling Crisis]({{ '/news/history-politics/government-shutdown/' | relative_url }}) — 2013-10-01
+- [Iran Nuclear Talks and Geneva Interim Agreement]({{ '/news/history-politics/iran-nuclear-talks-geneva-agreement/' | relative_url }}) — 2013-11-24
 
 ### Science & Technology
 - [CERN Confirms Discovery of Higgs Boson]({{ '/news/science-technology/higgs-boson-confirmation/' | relative_url }}) — 2013-03-14
@@ -41,6 +43,7 @@ A master index of every article in this knowledge base for "the year 2013".
 - [Beyoncé's Self-Titled Album Release]({{ '/news/arts-culture/beyonce-self-titled-album/' | relative_url }}) — 2013-12-13
 
 ### Society & Economics
+- [West Texas Fertilizer Plant Explosion]({{ '/news/society-economics/west-texas-fertilizer-explosion/' | relative_url }}) — 2013-04-17
 - [Rana Plaza Building Collapse]({{ '/news/society-economics/rana-plaza-building-collapse/' | relative_url }}) — 2013-04-24
 - [Asiana Airlines Flight 214 Crash]({{ '/news/society-economics/asiana-airlines-flight-214/' | relative_url }}) — 2013-07-06
 - [Silk Road Shutdown and Darknet Marketplace Closure]({{ '/news/society-economics/silk-road-shutdown/' | relative_url }}) — 2013-10-02
@@ -66,11 +69,13 @@ A master index of every article in this knowledge base for "the year 2013".
 - [Boston Marathon Bombing]({{ '/news/history-politics/boston-marathon-bombing/' | relative_url }})
 - [Breaking Bad Series Finale]({{ '/news/arts-culture/breaking-bad-series-finale/' | relative_url }})
 - [CERN Confirms Discovery of Higgs Boson]({{ '/news/science-technology/higgs-boson-confirmation/' | relative_url }})
+- [Chelsea Manning Court-Martial Verdict and Sentencing]({{ '/news/history-politics/chelsea-manning-court-martial/' | relative_url }})
 - [Comet ISON's Perihelion Passage]({{ '/news/science-technology/comet-ison/' | relative_url }})
 - [Edward Snowden's Asylum in Russia]({{ '/news/people/edward-snowden-asylum-russia/' | relative_url }})
 - [Edward Snowden's NSA Revelations]({{ '/news/history-politics/snowden-nsa-revelations/' | relative_url }})
 - [Frozen Film Release]({{ '/news/arts-culture/frozen-film-release/' | relative_url }})
 - [George Zimmerman's Acquittal in Trayvon Martin Case]({{ '/news/history-politics/george-zimmerman-acquittal/' | relative_url }})
+- [Gezi Park Protests and Turkish Political Crisis]({{ '/news/history-politics/gezi-park-protests/' | relative_url }})
 - [Google Glass Explorer Program Launch]({{ '/news/science-technology/google-glass-launch/' | relative_url }})
 - [Gravity Film Release and Alfonso Cuarón's Space Thriller]({{ '/news/arts-culture/gravity-film-release/' | relative_url }})
 - [Harlem Shake Viral Phenomenon]({{ '/news/arts-culture/harlem-shake-viral-phenomenon/' | relative_url }})
@@ -94,6 +99,7 @@ A master index of every article in this knowledge base for "the year 2013".
 - [The Great Gatsby Film Adaptation Release]({{ '/news/arts-culture/the-great-gatsby-film-release/' | relative_url }})
 - [Typhoon Haiyan Devastates Philippines]({{ '/news/society-economics/typhoon-haiyan-disaster/' | relative_url }})
 - [US Government Shutdown and Debt Ceiling Crisis]({{ '/news/history-politics/government-shutdown/' | relative_url }})
+- [West Texas Fertilizer Plant Explosion]({{ '/news/society-economics/west-texas-fertilizer-explosion/' | relative_url }})
 
 <!-- END GENERATED: index -->
 
